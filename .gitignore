@@ -1,1 +1,2 @@
-
+vault_PW.pass
+~/ansible_project/ansible_ec2/group_vars/all/vault_PW.pass
