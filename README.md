@@ -1,1 +1,1 @@
-This is a project on creating ec2 instances using Ansible
+CREATE EC2 INSTANCES USING ANSIBLE
